@@ -79,3 +79,8 @@
 
 ### Security 
 - [How to enable TLS 1.0 and TLS 1.1 protocols in RHEL 8](https://access.redhat.com/solutions/6370021)
+
+### Virtualization
+- [CONFIGURING AND MANAGING VIRTUALIZATION - RHEL 8](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_and_managing_virtualization/index)
+- [Certified guest operating systems for Red Hat Enterprise Linux with KVM](https://access.redhat.com/articles/973133)
+- [Virtualization limits for Red Hat Enterprise Linux with KVM](https://access.redhat.com/articles/rhel-kvm-limits)
