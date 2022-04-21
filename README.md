@@ -84,3 +84,6 @@
 - [CONFIGURING AND MANAGING VIRTUALIZATION - RHEL 8](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_and_managing_virtualization/index)
 - [Certified guest operating systems for Red Hat Enterprise Linux with KVM](https://access.redhat.com/articles/973133)
 - [Virtualization limits for Red Hat Enterprise Linux with KVM](https://access.redhat.com/articles/rhel-kvm-limits)
+
+### High Performance Computing
+- [Getting started with High Performance Computing (HPC) in Red Hat Enterprise Linux 8](https://access.redhat.com/articles/4354751)
