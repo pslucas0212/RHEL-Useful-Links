@@ -87,3 +87,6 @@
 
 ### High Performance Computing
 - [Getting started with High Performance Computing (HPC) in Red Hat Enterprise Linux 8](https://access.redhat.com/articles/4354751)
+
+### Red Hat Software Collections and Red Hat Developer Toolset
+- [How to use Red Hat Software Collections (RHSCL) or Red Hat Developer Toolset (DTS)?](https://access.redhat.com/solutions/472793)
