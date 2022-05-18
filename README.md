@@ -18,7 +18,10 @@
 - [Red Hat Adds Common Criteria Certification for Red Hat Enterprise Linux 8](https://www.redhat.com/en/about/press-releases/red-hat-adds-common-criteria-certification-red-hat-enterprise-linux-8)
 - [Red Hat Enterprise Linux Common Criteria FAQ](https://access.redhat.com/articles/1403233) - February 2017
 
-### Red Hat Enterpsie Linux 8.5
+### Red Hat Enterprise Linux 8.6
+- [RHEL 8.6: What's new and how to upgrade](https://developers.redhat.com/articles/2022/05/11/rhel-86-whats-new-and-how-upgrade)
+
+### Red Hat Enterprise Linux 8.5
 - [[What's New] RHEL 8.5/RHEL 9 Beta [Oct-2021]](https://videos.learning.redhat.com/media/%5BWhat%27s+New%5D+RHEL+8.5+RHEL+9+Beta+%5BOct-2021%5D/1_d8dj7py7)
 - [Red Hat 8.5 Release Notes](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/8.5_release_notes/overview#red-hat-customer-portal-labs)
 - [What's new in RHEL 8.5](https://www.redhat.com/en/blog/whats-new-rhel-85)
