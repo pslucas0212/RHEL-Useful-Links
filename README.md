@@ -27,6 +27,12 @@
 - [What to Know about RHEL 9](https://www.youtube.com/watch?v=YHeXhlAWqWc) - YouTube Presentation published 2/23/2022
 - [What's new in Red Hat Enterprise Linux 9 Beta](https://www.redhat.com/en/blog/whats-new-rhel-90-beta)
 
+### Red Hat Enterprise Linux 9
+- [Hot Off the Presses: Red Hat Enterprise Linux 9](https://www.redhat.com/en/blog/hot-presses-red-hat-enterprise-linux-9)
+- [Announcing full support for new Red Hat Enterprise Linux image builder service](https://www.redhat.com/en/blog/announcing-full-support-new-red-hat-enterprise-linux-image-builder-service?sc_cid=701f2000000txokAAA&utm_source=bambu&utm_medium=social&utm_campaign=abm)
+- [What's new in Red Hat Enterprise Linux 9 for edge computing](https://www.redhat.com/en/blog/whats-new-red-hat-enterprise-linux-9-edge-computing)
+
+
 ### Red Hat Enterprise Extended Support Life Cycle - RHEL 6
 - [FAQ: Red Hat Enterprise Linux 6 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/solutions/690063)
 - [How do I access Red Hat Enterprise Linux 6 Extended Life Cycle Support (ELS) content after Red Hat Enterprise Linux 6 transitions to Extended Life Phase?](https://access.redhat.com/articles/4873951)
