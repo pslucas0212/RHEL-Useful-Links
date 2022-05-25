@@ -35,6 +35,7 @@
 - [Announcing full support for new Red Hat Enterprise Linux image builder service](https://www.redhat.com/en/blog/announcing-full-support-new-red-hat-enterprise-linux-image-builder-service?sc_cid=701f2000000txokAAA&utm_source=bambu&utm_medium=social&utm_campaign=abm)
 - [What's new in Red Hat Enterprise Linux 9 for edge computing](https://www.redhat.com/en/blog/whats-new-red-hat-enterprise-linux-9-edge-computing)
 - [What's new in Red Hat Enterprise Linux 9](https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9)
+- [Release Notes for Red Hat Enterprise Linux 9.0](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html-single/9.0_release_notes/index)
 
 
 ### Red Hat Enterprise Extended Support Life Cycle - RHEL 6
