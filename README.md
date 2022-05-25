@@ -11,7 +11,7 @@
 ### Red Hat Enterprise Linux Life Cycle and Subscription
 - [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata)
 - [Red Hat Enterprise Linux subscription guide](https://www.redhat.com/en/resources/Linux-rhel-subscription-guide)
-- [Red Hat Enterprise Linux Release Dates](https://access.redhat.com/articles/3078) - November 2021
+- [Red Hat Enterprise Linux Release Dates](https://access.redhat.com/articles/3078) - Updated May 18 2022
 
 ### Certifications - Government, Industry, etc.
 - [Government Standards](https://access.redhat.com/articles/2918071)
