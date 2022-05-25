@@ -34,11 +34,13 @@
 - [Hot Off the Presses: Red Hat Enterprise Linux 9](https://www.redhat.com/en/blog/hot-presses-red-hat-enterprise-linux-9)
 - [Announcing full support for new Red Hat Enterprise Linux image builder service](https://www.redhat.com/en/blog/announcing-full-support-new-red-hat-enterprise-linux-image-builder-service?sc_cid=701f2000000txokAAA&utm_source=bambu&utm_medium=social&utm_campaign=abm)
 - [What's new in Red Hat Enterprise Linux 9 for edge computing](https://www.redhat.com/en/blog/whats-new-red-hat-enterprise-linux-9-edge-computing)
+- [What's new in Red Hat Enterprise Linux 9](https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9)
 
 
 ### Red Hat Enterprise Extended Support Life Cycle - RHEL 6
 - [FAQ: Red Hat Enterprise Linux 6 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/solutions/690063)
 - [How do I access Red Hat Enterprise Linux 6 Extended Life Cycle Support (ELS) content after Red Hat Enterprise Linux 6 transitions to Extended Life Phase?](https://access.redhat.com/articles/4873951)
+- [Extended Life Cycle Support add-on for Red Hat Enterprise Linux](https://www.redhat.com/en/resources/els-datasheet) - Datasheet
 
 ### Virtual Data Center Subscription
 - [Why and when do I need Virt-Who?](https://access.redhat.com/articles/1300283)
