@@ -85,7 +85,7 @@
 ### Clustering with RHEL
 - [How to build an active-active-active cluster with RHEL 8 and Percona MySQL](https://www.redhat.com/sysadmin/active-active-active-clusters)
 
-### Conttainers
+### Containers
 - [Podman basics: Resources for beginners and experts](https://developers.redhat.com/articles/2022/05/02/podman-basics-resources-beginners-and-experts?sc_cid=7013a0000030wJQAAY#what_is_podman_)
 
 ### Integration with Active Directory
@@ -105,3 +105,7 @@
 
 ### Red Hat Software Collections and Red Hat Developer Toolset
 - [How to use Red Hat Software Collections (RHSCL) or Red Hat Developer Toolset (DTS)?](https://access.redhat.com/solutions/472793)
+
+### [Troubleshooting]
+- RHEL 8 [Appendix G. Troubleshooting](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/performing_a_standard_rhel_installation/troubleshooting-after-installation_installing-rhel)
+- RHEL 7 [Appendix A. Troubleshooting](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/appe-troubleshooting)
