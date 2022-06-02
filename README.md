@@ -109,3 +109,6 @@
 ### Troubleshooting
 - RHEL 8 [Appendix G. Troubleshooting](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/performing_a_standard_rhel_installation/troubleshooting-after-installation_installing-rhel)
 - RHEL 7 [Appendix A. Troubleshooting](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/appe-troubleshooting)
+
+### Using Roles for Automated Configuration
+- [Automating firewall configuration with RHEL System Roles](https://www.redhat.com/en/blog/automating-firewall-configuration-rhel-system-roles)
