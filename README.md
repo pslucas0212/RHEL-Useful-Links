@@ -114,6 +114,7 @@
 ### Using Roles for Automated Configuration
 - [Automating firewall configuration with RHEL System Roles](https://www.redhat.com/en/blog/automating-firewall-configuration-rhel-system-roles)
 - [Red Hat Enterprise Linux System Roles series](https://www.redhat.com/en/blog/red-hat-enterprise-linux-system-roles) - Series of articles on using RHEL System Roles
+- [Red Hat Enterprise Linux (RHEL) System Roles](https://access.redhat.com/articles/3050101)
 
 
 ### Ansible Support in RHEL
