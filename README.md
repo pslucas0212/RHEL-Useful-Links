@@ -113,3 +113,10 @@
 
 ### Using Roles for Automated Configuration
 - [Automating firewall configuration with RHEL System Roles](https://www.redhat.com/en/blog/automating-firewall-configuration-rhel-system-roles)
+- [Red Hat Enterprise Linux System Roles series](https://www.redhat.com/en/blog/red-hat-enterprise-linux-system-roles) - Series of articles on using RHEL System Roles
+
+
+### Ansible Support in RHEL
+- [Using Ansible in RHEL 9](https://access.redhat.com/articles/6393321)
+- [Scope of support for the Ansible Core package included in the RHEL 9 and RHEL 8.6 and later AppStream repositories](https://access.redhat.com/articles/6325611)
+- [Using Ansible in RHEL 8.6 and later](https://access.redhat.com/articles/6393361)
