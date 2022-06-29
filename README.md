@@ -37,6 +37,7 @@
 - [What's new in Red Hat Enterprise Linux 9](https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9)
 - [Release Notes for Red Hat Enterprise Linux 9.0](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html-single/9.0_release_notes/index)
 - [What’s New In RHEL 9 | Red Hat Enterprise Linux Presents 38](https://www.youtube.com/watch?v=_bJptexvxrw) - YouTube Presentation published 1 June 2022
+- [Security features in Red Hat Enterprise Linux 9](https://www.redhat.com/en/blog/security-features-red-hat-enterprise-linux-9)
 
 
 ### Red Hat Enterprise Extended Support Life Cycle - RHEL 6
