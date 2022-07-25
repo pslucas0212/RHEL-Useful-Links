@@ -38,6 +38,7 @@
 - [Release Notes for Red Hat Enterprise Linux 9.0](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html-single/9.0_release_notes/index)
 - [What’s New In RHEL 9 | Red Hat Enterprise Linux Presents 38](https://www.youtube.com/watch?v=_bJptexvxrw) - YouTube Presentation published 1 June 2022
 - [Security features in Red Hat Enterprise Linux 9](https://www.redhat.com/en/blog/security-features-red-hat-enterprise-linux-9)
+- [RHEL 9 networking: Say goodbye to ifcfg-files, and hello to keyfiles](https://www.redhat.com/en/blog/rhel-9-networking-say-goodbye-ifcfg-files-and-hello-keyfiles)
 
 
 ### Red Hat Enterprise Extended Support Life Cycle - RHEL 6
