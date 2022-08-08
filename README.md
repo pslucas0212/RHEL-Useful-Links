@@ -131,3 +131,17 @@
 - [Scope of support for the Ansible Core package included in the RHEL 9 and RHEL 8.6 and later AppStream repositories](https://access.redhat.com/articles/6325611)
 - [Using Ansible in RHEL 8.6 and later](https://access.redhat.com/articles/6393361)
 - [Updates to using Ansible in RHEL 8.6 and 9.0](https://www.redhat.com/en/blog/updates-using-ansible-rhel-86-and-90)
+
+### Microsoft SQL Server
+#### From Microsoft:
+- [Installation guidance for SQL Server on Linux](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-red-hat?view=sql-server-ver16)
+- [Quickstart: Install SQL Server and create a database on Red Hat](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup?view=sql-server-ver16#system)
+
+#### From Red Hat:
+-[7 tech tips to help manage Microsoft SQL Server workloads](https://www.redhat.com/en/resources/7-tips-to-manage-sql-workloads-checklist) - This doc references several hands-on virtual labs (no-charge) to get familiar with MS SQL and RHEL.
+- [SQL Server database best practices now available through Red Hat Insights](https://www.redhat.com/en/resources/7-tips-to-manage-sql-workloads-checklist](https://www.redhat.com/en/blog/sql-server-database-best-practices-now-available-through-red-hat-insight) - Short blog article on setting RHEL with MS SQL Server and Insights to gather information to make sure recommended configuration settings are in place.
+- [These Microsoft SQL Server on RHEL 8 benchmark results might surprise you](https://www.redhat.com/en/blog/these-microsoft-sql-server-benchmark-results-might-surprise-you) - Published April 2021
+- [Securing SQL Server on RHEL 8 - Video]() - February 2022
+- [Microsoft SQL Server Management Studio on Red Hat Enterprise Linux]() - Video - February 2022
+
+--
