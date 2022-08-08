@@ -138,9 +138,11 @@
 - [Quickstart: Install SQL Server and create a database on Red Hat](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup?view=sql-server-ver16#system)
 
 #### From Red Hat:
+- [How to deploy, run and monitor Microsoft SQL server on RHEL](https://www.redhat.com/en/blog/how-deploy-run-and-monitor-microsoft-sql-server-rhel?channel=blog/channel/red-hat-enterprise-linux)
 - [7 tech tips to help manage Microsoft SQL Server workloads](https://www.redhat.com/en/resources/7-tips-to-manage-sql-workloads-checklist) - This doc references several hands-on virtual labs (no-charge) to get familiar with MS SQL and RHEL.
 - [SQL Server database best practices now available through Red Hat Insights](https://www.redhat.com/en/blog/sql-server-database-best-practices-now-available-through-red-hat-insights) - Short blog article on setting RHEL with MS SQL Server and Insights to gather information to make sure recommended configuration settings are in place.
 - [These Microsoft SQL Server on RHEL 8 benchmark results might surprise you](https://www.redhat.com/en/blog/these-microsoft-sql-server-benchmark-results-might-surprise-you) - Published April 2021
 - [Securing SQL Server on RHEL 8 - Video](https://www.redhat.com/en/about/videos/securing-sql-server-on-rhel8) - February 2022
 - [Microsoft SQL Server Management Studio on Red Hat Enterprise Linux](https://www.youtube.com/watch?v=pknjKM6hJZ8) - Video - February 2022
+- [Automating network and Microsoft SQL Server configuration using RHEL System Roles](https://www.redhat.com/en/blog/automating-network-and-microsoft-sql-server-configuration-using-rhel-system-roles)
 
