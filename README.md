@@ -139,7 +139,7 @@
 
 #### From Red Hat:
 -[7 tech tips to help manage Microsoft SQL Server workloads](https://www.redhat.com/en/resources/7-tips-to-manage-sql-workloads-checklist) - This doc references several hands-on virtual labs (no-charge) to get familiar with MS SQL and RHEL.
-- [SQL Server database best practices now available through Red Hat Insights](https://www.redhat.com/en/resources/7-tips-to-manage-sql-workloads-checklist](https://www.redhat.com/en/blog/sql-server-database-best-practices-now-available-through-red-hat-insight) - Short blog article on setting RHEL with MS SQL Server and Insights to gather information to make sure recommended configuration settings are in place.
+- [SQL Server database best practices now available through Red Hat Insights](https://www.redhat.com/en/resources/7-tips-to-manage-sql-workloads-checklist) - Short blog article on setting RHEL with MS SQL Server and Insights to gather information to make sure recommended configuration settings are in place.
 - [These Microsoft SQL Server on RHEL 8 benchmark results might surprise you](https://www.redhat.com/en/blog/these-microsoft-sql-server-benchmark-results-might-surprise-you) - Published April 2021
 - [Securing SQL Server on RHEL 8 - Video]() - February 2022
 - [Microsoft SQL Server Management Studio on Red Hat Enterprise Linux]() - Video - February 2022
