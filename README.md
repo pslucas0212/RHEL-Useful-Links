@@ -77,7 +77,9 @@
 - [How to install German language and use langpacks in RHEL 8 ?](https://access.redhat.com/solutions/6178821) - Example on how to install a language pack on RHEL 8.
 
 ### Converting CentOS or OEL To RHEL
-- [An Introduction to Convert2RHEL: Now officially supported to convert RHEL-like systems to RHEL](https://www.redhat.com/en/blog/introduction-convert2rhel-now-officially-supported-convert-rhel-systems-rhel) - April 2021 arricle
+- [Convert2RHEL Support Policy](https://access.redhat.com/support/policy/convert2rhel-support)
+- [An Introduction to Convert2RHEL: Now officially supported to convert RHEL-like systems to RHEL](https://www.redhat.com/en/blog/introduction-convert2rhel-now-officially-supported-convert-rhel-systems-rhel) - April 2021 article
+- [Convert2RHEL: How to convert from CentOS Linux and Oracle Linux to Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/migration-process/convert2rhel-how-to-convert-from-centos-linux-to-red-hat-enterprise-linux)
 - [Converting from CentOS to RHEL with Convert2RHEL and Satellite ](https://www.redhat.com/en/blog/converting-centos-rhel-convert2rhel-and-satellite) - March 2020 Overview
 - [Introduction Convert to RHEL: Convert2RHEL](https://www.youtube.com/watch?v=Git-6uAz1t4) - YouTube - September 2021
 - [Convert from CentOS Linux with Convert2RHEL](https://www.youtube.com/watch?v=xX7P4BzOcNg) - YouTube - October 2021
