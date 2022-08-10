@@ -67,6 +67,7 @@
 ### Red Hat Enterprise Linux Updates
 - [How can we regularly update a disconnected system (A system without internet connection)?](https://access.redhat.com/solutions/29269)
 - [How to create a local mirror of the latest update for Red Hat Enterprise Linux 5, 6, 7, 8 without using Satellite server](https://access.redhat.com/solutions/23016)
+- [Create an Apache-based YUM/DNF repository on Red Hat Enterprise Linux 8]()
 
 ### RHEL and Tomcat
 - [Apache Tomcat No Longer Available on RHEL 8.x Distributions](https://access.redhat.com/articles/5617971)
