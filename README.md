@@ -129,6 +129,9 @@
 - [Red Hat Enterprise Linux (RHEL) System Roles](https://access.redhat.com/articles/3050101)
 - [Introduction to RHEL System Roles](https://www.redhat.com/en/blog/introduction-rhel-system-roles)
 
+### Ansible and Linux
+- [Demystifying Ansible for Linux sysadmins](https://www.redhat.com/sysadmin/demystifying-ansible-sysadmins)
+- [https://www.redhat.com/sysadmin/ansible-quick-start](https://www.redhat.com/sysadmin/ansible-quick-start)
 
 ### Ansible Support in RHEL
 - [Using Ansible in RHEL 9](https://access.redhat.com/articles/6393321)
