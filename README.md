@@ -13,8 +13,12 @@
 - [Red Hat Enterprise Linux subscription guide](https://www.redhat.com/en/resources/Linux-rhel-subscription-guide)
 - [Red Hat Enterprise Linux Release Dates](https://access.redhat.com/articles/3078) - Updated May 18 2022
 - [How can a RHEL Self-Support / Entry Level subscription be used?](https://access.redhat.com/articles/54702)
+
+### Cloud
 - [RHEL gold images in Azure and user experience improvements for Red Hat Cloud Access](https://www.redhat.com/en/blog/rhel-gold-images-azure-and-user-experience-improvements-red-hat-cloud-access)
 - [How to Locate Red Hat Cloud Access Gold Images on AWS EC2](https://access.redhat.com/articles/2962171)
+- [Creating customized RHEL images using the Image Builder service](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/creating_customized_rhel_images_using_the_image_builder_service/index)
+- [Red Hat Enterprise Linux 8 Image Builder: Building custom system images](https://developers.redhat.com/blog/2019/05/08/red-hat-enterprise-linux-8-image-builder-building-custom-system-images)
 
 ### Certifications - Government, Industry, etc.
 - [Government Standards](https://access.redhat.com/articles/2918071)
