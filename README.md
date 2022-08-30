@@ -135,7 +135,7 @@
 
 ### Ansible and Linux
 - [Demystifying Ansible for Linux sysadmins](https://www.redhat.com/sysadmin/demystifying-ansible-sysadmins)
-- [https://www.redhat.com/sysadmin/ansible-quick-start](https://www.redhat.com/sysadmin/ansible-quick-start)
+- [Quick start guide to Ansible for Linux sysadmins](https://www.redhat.com/sysadmin/ansible-quick-start)
 
 ### Ansible Support in RHEL
 - [Using Ansible in RHEL 9](https://access.redhat.com/articles/6393321)
