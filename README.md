@@ -13,6 +13,8 @@
 - [Red Hat Enterprise Linux subscription guide](https://www.redhat.com/en/resources/Linux-rhel-subscription-guide)
 - [Red Hat Enterprise Linux Release Dates](https://access.redhat.com/articles/3078) - Updated May 18 2022
 - [How can a RHEL Self-Support / Entry Level subscription be used?](https://access.redhat.com/articles/54702)
+- [RHEL gold images in Azure and user experience improvements for Red Hat Cloud Access](https://www.redhat.com/en/blog/rhel-gold-images-azure-and-user-experience-improvements-red-hat-cloud-access)
+- [How to Locate Red Hat Cloud Access Gold Images on AWS EC2](https://access.redhat.com/articles/2962171)
 
 ### Certifications - Government, Industry, etc.
 - [Government Standards](https://access.redhat.com/articles/2918071)
@@ -69,6 +71,7 @@
 - [How can we regularly update a disconnected system (A system without internet connection)?](https://access.redhat.com/solutions/29269)
 - [How to create a local mirror of the latest update for Red Hat Enterprise Linux 5, 6, 7, 8 without using Satellite server](https://access.redhat.com/solutions/23016)
 - [Create an Apache-based YUM/DNF repository on Red Hat Enterprise Linux 8]()
+- [Red Hat Update Infrastructure](https://access.redhat.com/products/red-hat-update-infrastructure)
 
 ### RHEL and Tomcat
 - [Apache Tomcat No Longer Available on RHEL 8.x Distributions](https://access.redhat.com/articles/5617971)
