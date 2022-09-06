@@ -25,6 +25,9 @@
 - [Red Hat Adds Common Criteria Certification for Red Hat Enterprise Linux 8](https://www.redhat.com/en/about/press-releases/red-hat-adds-common-criteria-certification-red-hat-enterprise-linux-8)
 - [Red Hat Enterprise Linux Common Criteria FAQ](https://access.redhat.com/articles/1403233) - February 2017
 
+### Education
+- [Red Hat Enterprise Linux Technical Overview](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview?utm_medium=Email&utm_campaign=weekly&sc_cid=7013a0000038466AAA) - No charge introduction
+
 ### Red Hat Enterprise Linux 8.6
 - [RHEL 8.6: What's new and how to upgrade](https://developers.redhat.com/articles/2022/05/11/rhel-86-whats-new-and-how-upgrade)
 
