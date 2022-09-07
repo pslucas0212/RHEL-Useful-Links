@@ -157,6 +157,7 @@
 - [Quickstart: Install SQL Server and create a database on Red Hat](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup?view=sql-server-ver16#system)
 
 #### From Red Hat:
+- [Preview the new system role support for Microsoft SQL Server Always On availability groups](https://www.redhat.com/en/blog/preview-new-system-role-support-microsoft-sql-server-always-availability-groups)
 - [How to deploy, run and monitor Microsoft SQL server on RHEL](https://www.redhat.com/en/blog/how-deploy-run-and-monitor-microsoft-sql-server-rhel?channel=blog/channel/red-hat-enterprise-linux)
 - [7 tech tips to help manage Microsoft SQL Server workloads](https://www.redhat.com/en/resources/7-tips-to-manage-sql-workloads-checklist) - This doc references several hands-on virtual labs (no-charge) to get familiar with MS SQL and RHEL.
 - [SQL Server database best practices now available through Red Hat Insights](https://www.redhat.com/en/blog/sql-server-database-best-practices-now-available-through-red-hat-insights) - Short blog article on setting RHEL with MS SQL Server and Insights to gather information to make sure recommended configuration settings are in place.
