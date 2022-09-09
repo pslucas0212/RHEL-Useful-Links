@@ -75,6 +75,7 @@
 - [RHEL 8 Beta - Cockpit Web Based Management Interface Overview](https://www.redhat.com/en/about/videos/rhel-8-beta-cockpit-web-based-interface-overview) - 11 minute video
 
 ### Red Hat Enterprise Linux Updates
+- [How to update Red Hat Enterprise Linux via minor releases and Extended Update Support](https://www.redhat.com/en/blog/how-update-red-hat-enterprise-linux-tvia-minor-releases-and-extended-update-support)
 - [How can we regularly update a disconnected system (A system without internet connection)?](https://access.redhat.com/solutions/29269)
 - [How to create a local mirror of the latest update for Red Hat Enterprise Linux 5, 6, 7, 8 without using Satellite server](https://access.redhat.com/solutions/23016)
 - [Create an Apache-based YUM/DNF repository on Red Hat Enterprise Linux 8]()
