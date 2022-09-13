@@ -153,13 +153,13 @@
 - [Red Hat Enterprise Linux (RHEL) System Roles](https://access.redhat.com/articles/3050101) - See **Note 1 and Note 2** in this document describes support and scope of use cases that Red Hat provides with Ansible Engine/Ansible Core installed on RHEL.
 
 ### VMWare
-### From Redhat:
+#### From Redhat:
 - [Design Guidance for RHEL High Availability Clusters - VMware Virtual Machines as Cluster Members](https://access.redhat.com/articles/3349791)
 - [Are VMware VMDK disk images a supported shared storage method in Red Hat Enterprise Linux High Availability Cluster?](https://access.redhat.com/solutions/158873)
 - [Support Policies for RHEL High Availability Clusters - VMware Virtual Machines as Cluster Members](https://access.redhat.com/articles/3131271)
 - [Support Policies for RHEL High Availability Clusters - fence_scsi and fence_mpath](https://access.redhat.com/articles/3078811)
 
-### From VMWare:
+#### From VMWare:
 - [Using Red Hat Clustering Suite or SUSE Linux on a vSphere 6.x vSAN Datastore (2151774)](https://kb.vmware.com/s/article/2151774)
 
 ### Microsoft SQL Server
