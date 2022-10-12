@@ -79,8 +79,11 @@
 - [How to update Red Hat Enterprise Linux via minor releases and Extended Update Support](https://www.redhat.com/en/blog/how-update-red-hat-enterprise-linux-tvia-minor-releases-and-extended-update-support)
 - [How can we regularly update a disconnected system (A system without internet connection)?](https://access.redhat.com/solutions/29269)
 - [How to create a local mirror of the latest update for Red Hat Enterprise Linux 5, 6, 7, 8 without using Satellite server](https://access.redhat.com/solutions/23016)
+- [Is it possible to manage a PAYG On-Demand image with Satellite Server?](https://access.redhat.com/solutions/5962181)
+- [Is the createrepo command available in RHEL 8/9?](https://access.redhat.com/solutions/3755901)
 - [Create an Apache-based YUM/DNF repository on Red Hat Enterprise Linux 8]()
 - [Red Hat Update Infrastructure](https://access.redhat.com/products/red-hat-update-infrastructure)
+
 
 ### RHEL and Tomcat
 - [Apache Tomcat No Longer Available on RHEL 8.x Distributions](https://access.redhat.com/articles/5617971)
