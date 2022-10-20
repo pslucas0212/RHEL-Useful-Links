@@ -62,6 +62,7 @@
 - [Using RHEL Virtual Data Center Subscription [Master Article]](https://access.redhat.com/solutions/3243071)
 - [Configuring virt-who with Red Hat Subscription Management](https://www.youtube.com/watch?v=0KptauyDAxE)
 - [Using RHEL subscriptions (2013 packaging): Scenario 5 - Virtual Datacenter](https://access.redhat.com/articles/480693)
+- [How to use Virtual Datacenter subscriptions in Cloud Platforms ?](https://access.redhat.com/solutions/3492871) FYI... Short answer is that you can't use VDC subs in the cloud as underlying hypervisor is not accessible by virt-who.
 
 ### Red Hat Enterprise Linux Upgrade
 - [How to do an offline upgrade to RHEL 8 with Leapp?](https://access.redhat.com/solutions/5492401)
