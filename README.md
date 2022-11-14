@@ -30,6 +30,7 @@
 
 ### Red Hat Enterprise Linux 8.7
 - [Red Hat Enterprise Linux 8.7 is now available](https://www.redhat.com/en/blog/rhel-87-now-available)
+- [8.7 Release Notes](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/8.7_release_notes/index)
 
 ### Red Hat Enterprise Linux 8.6
 - [RHEL 8.6: What's new and how to upgrade](https://developers.redhat.com/articles/2022/05/11/rhel-86-whats-new-and-how-upgrade)
