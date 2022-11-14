@@ -28,6 +28,9 @@
 ### Education
 - [Red Hat Enterprise Linux Technical Overview](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview?utm_medium=Email&utm_campaign=weekly&sc_cid=7013a0000038466AAA) - No charge introduction
 
+### Red Hat Enterprise Linux 8.7
+- [Red Hat Enterprise Linux 8.7 is now available](https://www.redhat.com/en/blog/rhel-87-now-available)
+
 ### Red Hat Enterprise Linux 8.6
 - [RHEL 8.6: What's new and how to upgrade](https://developers.redhat.com/articles/2022/05/11/rhel-86-whats-new-and-how-upgrade)
 
