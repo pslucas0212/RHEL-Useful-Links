@@ -40,9 +40,8 @@
 - [Red Hat 8.5 Release Notes](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/8.5_release_notes/overview#red-hat-customer-portal-labs)
 - [What's new in RHEL 8.5](https://www.redhat.com/en/blog/whats-new-rhel-85)
 
-### Red Hat Enterprise Linux 9 Beta
-- [What to Know about RHEL 9](https://www.youtube.com/watch?v=YHeXhlAWqWc) - YouTube Presentation published 2/23/2022
-- [What's new in Red Hat Enterprise Linux 9 Beta](https://www.redhat.com/en/blog/whats-new-rhel-90-beta)
+### Red Hat Enterprise Linux 9.1
+- [Red Hat Enterprise Linux 9.1 is now available](https://www.redhat.com/en/blog/rhel-91-now-available)
 
 ### Red Hat Enterprise Linux 9
 - [Hot Off the Presses: Red Hat Enterprise Linux 9](https://www.redhat.com/en/blog/hot-presses-red-hat-enterprise-linux-9)
@@ -54,6 +53,9 @@
 - [Security features in Red Hat Enterprise Linux 9](https://www.redhat.com/en/blog/security-features-red-hat-enterprise-linux-9)
 - [RHEL 9 networking: Say goodbye to ifcfg-files, and hello to keyfiles](https://www.redhat.com/en/blog/rhel-9-networking-say-goodbye-ifcfg-files-and-hello-keyfiles)
 
+### Red Hat Enterprise Linux 9 Beta
+- [What to Know about RHEL 9](https://www.youtube.com/watch?v=YHeXhlAWqWc) - YouTube Presentation published 2/23/2022
+- [What's new in Red Hat Enterprise Linux 9 Beta](https://www.redhat.com/en/blog/whats-new-rhel-90-beta)
 
 ### Red Hat Enterprise Extended Support Life Cycle - RHEL 6
 - [FAQ: Red Hat Enterprise Linux 6 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/solutions/690063)
