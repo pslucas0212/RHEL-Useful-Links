@@ -156,6 +156,7 @@
 ### Ansible and Linux
 - [Demystifying Ansible for Linux sysadmins](https://www.redhat.com/sysadmin/demystifying-ansible-sysadmins)
 - [Quick start guide to Ansible for Linux sysadmins](https://www.redhat.com/sysadmin/ansible-quick-start)
+- [How to install Red Hat Ansible Automation Platform on RHEL 9](https://developers.redhat.com/articles/2023/01/01/how-install-red-hat-ansible-automation-platform-rhel-9?sc_cid=7013a0000034iB6AAI#)
 
 ### Ansible Support in RHEL
 - [Using Ansible in RHEL 9](https://access.redhat.com/articles/6393321)
