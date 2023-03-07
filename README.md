@@ -169,6 +169,11 @@
 - [Updates to using Ansible in RHEL 8.6 and 9.0](https://www.redhat.com/en/blog/updates-using-ansible-rhel-86-and-90)
 - [Red Hat Enterprise Linux (RHEL) System Roles](https://access.redhat.com/articles/3050101) - See **Note 1 and Note 2** in this document describes support and scope of use cases that Red Hat provides with Ansible Engine/Ansible Core installed on RHEL.
 
+### Red Hat Enterprise Linux for SAP
+- [Overview of the Red Hat Enterprise Linux for SAP Solutions subscription](https://access.redhat.com/solutions/3082481)
+- [Overview of the Red Hat Enterprise Linux for SAP Applications subscription](https://access.redhat.com/solutions/34169)
+- [Red Hat Enterprise Linux System Roles for SAP](https://access.redhat.com/articles/4488731)
+
 ### VMWare
 #### From Redhat:
 - [Support Policies for RHEL High Availability Clusters - General Conditions with Virtualized Cluster Members](https://access.redhat.com/articles/3131111)
