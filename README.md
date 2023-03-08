@@ -14,6 +14,11 @@
 - [Red Hat Enterprise Linux Release Dates](https://access.redhat.com/articles/3078) - Updated May 18 2022
 - [How can a RHEL Self-Support / Entry Level subscription be used?](https://access.redhat.com/articles/54702)
 
+### Red Hat Enterprise Linux Extended Update Support (EUS)
+- [Red Hat Enterprise Linux (RHEL) Extended Update Support (EUS) Overview](https://access.redhat.com/articles/rhel-eus)
+- [Red Hat Enterprise Linux 9 Extended Update Support (EUS) FAQ](https://access.redhat.com/articles/rhel9-eus-faq)
+- [Red Hat Enterprise Linux 8 Extended Update Support (EUS) FAQ](https://access.redhat.com/articles/4520991)
+
 ### Cloud
 - [RHEL gold images in Azure and user experience improvements for Red Hat Cloud Access](https://www.redhat.com/en/blog/rhel-gold-images-azure-and-user-experience-improvements-red-hat-cloud-access)
 - [How to Locate Red Hat Cloud Access Gold Images on AWS EC2](https://access.redhat.com/articles/2962171)
