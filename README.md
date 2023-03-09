@@ -2,6 +2,16 @@
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
+### Standard Operating Environment
+- [Maximize your Linux operating environment](https://www.redhat.com/rhdc/managed-files/li-maximize-linux-ebook-f31672-202206-en.pdf) - PDF Overview 
+- [4 benefits of a Standard Operating Environment (SOE)](https://enterprisersproject.com/article/2020/11/4-benefits-standard-operating-environment-soe) 
+- [Standard Operating Environment – Part I: Concepts and Structures](https://www.redhat.com/en/blog/standard-operating-environment-%E2%80%93-part-i-concepts-and-structures)
+- [Standard Operating Environment – Part II: Workflows in Detail](https://www.redhat.com/en/blog/standard-operating-environment-%E2%80%93-part-ii-workflows-detail)
+- [Standard Operating Environment – Part III: A Reference Implementation](https://www.redhat.com/en/blog/standard-operating-environment-%E2%80%93-part-iii-reference-implementation)
+- [10 Steps to Build an SOE](https://access.redhat.com/sites/default/files/pages/attachments/2015-10_Steps_to_Build_a_Standard_Operating_Environment.pdf) - From 2015, 344 pages, Satellite focused.
+- [5 ways Red Hat Insights can improve your sysadmin life](https://www.redhat.com/sysadmin/5-ways-insights) - November 2022
+- [Manage Risk and Improve Operational Efficiency in Red Hat Enterprise Linux Environments](https://www.youtube.com/watch?v=6TAWj_eNXhw) - YouTube Presentation from 2021
+
 ### Sysadmin
 - [Enable Sysadmin](https://www.redhat.com/sysadmin/) - Linux system administration articles
 
