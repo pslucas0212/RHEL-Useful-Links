@@ -80,6 +80,8 @@
 - [Upgrading from RHEL 7 to RHEL 8 with Leapp and BOOM](https://www.redhat.com/en/blog/upgrading-rhel-7-rhel-8-leapp-and-boom)
 - [Upgrade from Red Hat Enterprise Linux 7 to 8 with Leapp](https://www.redhat.com/en/about/videos/upgrade-from-red-hat-enterprise-7-with-Leapp)  - Video - Approximately 4 minutes
 - [Red Hat Enterprise Linux 7 to 8 In-Place Upgrade Using Leapp](https://www.youtube.com/watch?v=4nG2X_pmxv4) - one hour video overview/demo
+- [Take the unknowns out of RHEL upgrades with Red Hat Insights](https://www.redhat.com/en/blog/take-unknowns-out-rhel-upgrades-red-hat-insights)
+
 
 ### RHEL GUI/Web Server Administration
 - [An introduction to Cockpit, a browser-based administration tool for Linux](https://www.redhat.com/sysadmin/intro-cockpit#:~:text=Cockpit%20is%20a%20server%20administration,continued%20to%20grow%20and%20mature.)
