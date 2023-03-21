@@ -125,6 +125,13 @@
 - [Introduction Convert to RHEL: Convert2RHEL](https://www.youtube.com/watch?v=Git-6uAz1t4) - YouTube - September 2021
 - [Convert from CentOS Linux with Convert2RHEL](https://www.youtube.com/watch?v=xX7P4BzOcNg) - YouTube - October 2021
 
+#### OEL References for when you are considering converting OEL to RHEL
+- [Release Notes for Oracle Linux 9 - About Oracle Linux 9](https://docs.oracle.com/en/operating-systems/oracle-linux/9/relnotes9.0/ol9-AboutOracleLinux9.html#ol9-whatsnew)
+- [Release Notes for Oracle Linux 8 - Shipped Kernel](https://docs.oracle.com/en/operating-systems/oracle-linux/8/relnotes8.0/ol8-AboutOracleLinux8.html#ol8-kernels)
+- [Oracle Linux and Unbreakable Enterprise Kernel (UEK) Releases](https://blogs.oracle.com/scoter/post/oracle-linux-and-unbreakable-enterprise-kernel-uek-releases) - Updated on 22 November 2022
+- [Unbreakable Enterprise Kernel](https://docs.oracle.com/en/operating-systems/uek/)
+- [Active Kernel Releases](https://www.kernel.org/releases.html) from the Linux Kernel Archives
+
 ### Application Streams in RHEL 8
 - [Introduction to Application Streams in Red Hat Enterprise Linux](https://www.redhat.com/en/blog/introduction-appstreams-and-modules-red-hat-enterprise-linux)
 - [Red Hat Enterprise Linux 8 Application Streams Life Cycle](https://access.redhat.com/support/policy/updates/rhel8-app-streams-life-cycle)
