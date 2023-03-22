@@ -29,6 +29,12 @@
 - [Red Hat Enterprise Linux 9 Extended Update Support (EUS) FAQ](https://access.redhat.com/articles/rhel9-eus-faq)
 - [Red Hat Enterprise Linux 8 Extended Update Support (EUS) FAQ](https://access.redhat.com/articles/4520991)
 
+### Red Hat Enterprise Extended Support Life Cycle - RHEL 6
+- [FAQ: Red Hat Enterprise Linux 6 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/solutions/690063)
+- [How do I access Red Hat Enterprise Linux 6 Extended Life Cycle Support (ELS) content after Red Hat Enterprise Linux 6 transitions to Extended Life Phase?](https://access.redhat.com/articles/4873951)
+- [Extended Life Cycle Support add-on for Red Hat Enterprise Linux](https://www.redhat.com/en/resources/els-datasheet) - Datasheet
+- [How to access RHEL 6 ELS content in AWS, Google Cloud, Microsoft Azure](https://access.redhat.com/solutions/5609781)
+
 ### Cloud
 - [RHEL gold images in Azure and user experience improvements for Red Hat Cloud Access](https://www.redhat.com/en/blog/rhel-gold-images-azure-and-user-experience-improvements-red-hat-cloud-access)
 - [How to Locate Red Hat Cloud Access Gold Images on AWS EC2](https://access.redhat.com/articles/2962171)
@@ -72,10 +78,6 @@
 - [What to Know about RHEL 9](https://www.youtube.com/watch?v=YHeXhlAWqWc) - YouTube Presentation published 2/23/2022
 - [What's new in Red Hat Enterprise Linux 9 Beta](https://www.redhat.com/en/blog/whats-new-rhel-90-beta)
 
-### Red Hat Enterprise Extended Support Life Cycle - RHEL 6
-- [FAQ: Red Hat Enterprise Linux 6 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/solutions/690063)
-- [How do I access Red Hat Enterprise Linux 6 Extended Life Cycle Support (ELS) content after Red Hat Enterprise Linux 6 transitions to Extended Life Phase?](https://access.redhat.com/articles/4873951)
-- [Extended Life Cycle Support add-on for Red Hat Enterprise Linux](https://www.redhat.com/en/resources/els-datasheet) - Datasheet
 
 ### Virtual Data Center Subscription
 - [Why and when do I need Virt-Who?](https://access.redhat.com/articles/1300283)
