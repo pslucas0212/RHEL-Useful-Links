@@ -93,6 +93,7 @@
 - [Upgrade from Red Hat Enterprise Linux 7 to 8 with Leapp](https://www.redhat.com/en/about/videos/upgrade-from-red-hat-enterprise-7-with-Leapp)  - Video - Approximately 4 minutes
 - [Red Hat Enterprise Linux 7 to 8 In-Place Upgrade Using Leapp](https://www.youtube.com/watch?v=4nG2X_pmxv4) - one hour video overview/demo
 - [Take the unknowns out of RHEL upgrades with Red Hat Insights](https://www.redhat.com/en/blog/take-unknowns-out-rhel-upgrades-red-hat-insights)
+- [How to upgrade using leapp from RHEL 7 to any RHEL 8 minor release.](https://access.redhat.com/solutions/6322411)
 
 
 ### RHEL GUI/Web Server Administration
