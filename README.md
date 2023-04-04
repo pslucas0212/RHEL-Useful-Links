@@ -95,6 +95,7 @@
 - [Take the unknowns out of RHEL upgrades with Red Hat Insights](https://www.redhat.com/en/blog/take-unknowns-out-rhel-upgrades-red-hat-insights)
 - [How to upgrade using leapp from RHEL 7 to any RHEL 8 minor release.](https://access.redhat.com/solutions/6322411)
 - [Leapp Upgrade using Red Hat Update Infrastructure](https://access.redhat.com/solutions/6970018)
+- [Leapp Explained](https://www.redhat.com/rhdc/managed-files/li-leapp-explained-detail-f31715pr-202208-en.pdf) - PDF Document
 
 
 ### RHEL GUI/Web Server Administration
