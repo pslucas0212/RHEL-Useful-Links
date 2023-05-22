@@ -246,6 +246,8 @@
 - [Overview of the Red Hat Enterprise Linux for SAP Applications subscription](https://access.redhat.com/solutions/34169) - February 2023
 - [Red Hat Enterprise Linux System Roles for SAP](https://access.redhat.com/articles/4488731)
 
+### Red Hat Software Collections
+- [PHP support in Red Hat Enterprise Linux](https://access.redhat.com/solutions/409673)
 ### VMWare
 #### From Redhat:
 - [Support Policies for RHEL High Availability Clusters - General Conditions with Virtualized Cluster Members](https://access.redhat.com/articles/3131111)
