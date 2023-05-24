@@ -155,6 +155,7 @@
 - [Is the createrepo command available in RHEL 8/9?](https://access.redhat.com/solutions/3755901)
 - [Create an Apache-based YUM/DNF repository on Red Hat Enterprise Linux 8]()
 - [Red Hat Update Infrastructure](https://access.redhat.com/products/red-hat-update-infrastructure)
+- [Upgrading from RHEL 7 to RHEL 8](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/pdf/upgrading_from_rhel_7_to_rhel_8/red_hat_enterprise_linux-8-upgrading_from_rhel_7_to_rhel_8-en-us.pdf) - Brand New step-by-step guide for in-place upgrades including information for using LEAPP with PAYG RHEL Instances - Published in May of 2023
 
 
 ### RHEL and Tomcat
