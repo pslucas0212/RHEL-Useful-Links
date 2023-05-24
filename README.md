@@ -140,6 +140,8 @@
 - [Leapp Upgrade using Red Hat Update Infrastructure](https://access.redhat.com/solutions/6970018)
 - [Leapp Explained](https://www.redhat.com/rhdc/managed-files/li-leapp-explained-detail-f31715pr-202208-en.pdf) - PDF Document
 - [Upgrading from RHEL 7 to RHEL 8](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/pdf/upgrading_from_rhel_7_to_rhel_8/red_hat_enterprise_linux-8-upgrading_from_rhel_7_to_rhel_8-en-us.pdf) - Brand New step-by-step guide for in-place upgrades including information for using LEAPP with PAYG RHEL Instances - Published in May of 2023
+- [Supported in-place upgrade paths for Red Hat Enterprise Linux](https://access.redhat.com/articles/4263361)
+- [Take the unknowns out of RHEL upgrades with Red Hat Insights](https://www.redhat.com/en/blog/take-unknowns-out-rhel-upgrades-red-hat-insights)
 
 
 
