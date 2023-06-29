@@ -25,12 +25,15 @@
 - [Red Hat Enterprise Linux subscription guide](https://www.redhat.com/en/resources/Linux-rhel-subscription-guide)
 - [Red Hat Enterprise Linux Release Dates](https://access.redhat.com/articles/3078) - Updated May 18 2022
 - [How can a RHEL Self-Support / Entry Level subscription be used?](https://access.redhat.com/articles/54702)
+- [Announcing up to 4 years of Extended Life Cycle Support (ELS) for Red Hat Enterprise Linux 7](https://www.redhat.com/en/blog/announcing-4-years-extended-life-cycle-support-els-red-hat-enterprise-linux-7)
 
 ### Red Hat Enterprise Linux Extended Update Support (EUS)
 - [Red Hat Enterprise Linux (RHEL) Extended Update Support (EUS) Overview](https://access.redhat.com/articles/rhel-eus)
 - [Red Hat Enterprise Linux 9 Extended Update Support (EUS) FAQ](https://access.redhat.com/articles/rhel9-eus-faq)
 - [Red Hat Enterprise Linux 8 Extended Update Support (EUS) FAQ](https://access.redhat.com/articles/4520991)
 
+### Red Hat Enterprise Extended Support Life Cycle - RHEL 7
+-[FAQ: Red Hat Enterprise Linux 7 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/articles/7005471)
 ### Red Hat Enterprise Extended Support Life Cycle - RHEL 6
 - [FAQ: Red Hat Enterprise Linux 6 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/solutions/690063)
 - [How do I access Red Hat Enterprise Linux 6 Extended Life Cycle Support (ELS) content after Red Hat Enterprise Linux 6 transitions to Extended Life Phase?](https://access.redhat.com/articles/4873951)
