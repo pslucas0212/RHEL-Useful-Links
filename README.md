@@ -163,6 +163,7 @@
 - [Is the createrepo command available in RHEL 8/9?](https://access.redhat.com/solutions/3755901)
 - [Create an Apache-based YUM/DNF repository on Red Hat Enterprise Linux 8]()
 - [Red Hat Update Infrastructure](https://access.redhat.com/products/red-hat-update-infrastructure)
+- [Best practices for patch management](https://www.redhat.com/en/blog/best-practices-patch-management)
 
 
 ### RHEL and Tomcat
