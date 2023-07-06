@@ -46,6 +46,7 @@
 - [How to Locate Red Hat Cloud Access Gold Images on AWS EC2](https://access.redhat.com/articles/2962171)
 - [Creating customized RHEL images using the Image Builder service](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/creating_customized_rhel_images_using_the_image_builder_service/index)
 - [Red Hat Enterprise Linux 8 Image Builder: Building custom system images](https://developers.redhat.com/blog/2019/05/08/red-hat-enterprise-linux-8-image-builder-building-custom-system-images)
+- [Entropy in RHEL based cloud instances](https://developers.redhat.com/blog/2017/10/05/entropy-rhel-based-cloud-instances#)
 
 ### Certifications - Government, Industry, etc.
 - [Government Standards](https://access.redhat.com/articles/2918071)
