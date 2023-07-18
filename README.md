@@ -159,7 +159,11 @@ Table of Contents for this Page
 - [RHEL 7 Documentation - GETTING STARTED WITH COCKPIT](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/getting_started_with_cockpit/index)
 - [RHEL 8 Documentation - MANAGING SYSTEMS USING THE RHEL 8 WEB CONSOLE](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/managing_systems_using_the_rhel_8_web_console/index)
 - [RHEL 8 Beta - Cockpit Web Based Management Interface Overview](https://www.redhat.com/en/about/videos/rhel-8-beta-cockpit-web-based-interface-overview) - 11 minute video
+- [Learn how to use the Red Hat Enterprise Linux (RHEL) web console](https://www.redhat.com/en/blog/rhel-web-console)
 
+### Monitoring
+- [Automate performance metrics collection and visualization with RHEL System Roles](https://www.redhat.com/en/blog/automate-performance-metrics-collection-and-visualization-rhel-system-roles)
+- 
 ### Red Hat Enterprise Linux Updates
 - [How to update Red Hat Enterprise Linux via minor releases and Extended Update Support](https://www.redhat.com/en/blog/how-update-red-hat-enterprise-linux-tvia-minor-releases-and-extended-update-support)
 - [How can we regularly update a disconnected system (A system without internet connection)?](https://access.redhat.com/solutions/29269)
