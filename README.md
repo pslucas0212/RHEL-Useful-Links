@@ -4,9 +4,7 @@
 
 [Jump to the Lastest Red Hat Enterprise Linux release information](https://github.com/pslucas0212/RHEL-Useful-Links/blob/main/README.md#red-hat-enterprise-linux-new-release-information)
 
-Table of Contents for this Page
-- [Standard Operating Environment]()
-- 
+
 ### Standard Operating Environment
 - [Maximize your Linux operating environment](https://www.redhat.com/rhdc/managed-files/li-maximize-linux-ebook-f31672-202206-en.pdf) - PDF Overview 
 - [4 benefits of a Standard Operating Environment (SOE)](https://enterprisersproject.com/article/2020/11/4-benefits-standard-operating-environment-soe) 
