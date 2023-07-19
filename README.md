@@ -4,6 +4,9 @@
 
 [Jump to the Lastest Red Hat Enterprise Linux release information](https://github.com/pslucas0212/RHEL-Useful-Links/blob/main/README.md#red-hat-enterprise-linux-new-release-information)
 
+### North America Red Hat Workshops and Learning Labs
+- [Upcoming Red Hat Workshop Wednesday events](https://www.redhat.com/en/events/na-workshops-labs)
+
 
 ### Standard Operating Environment
 - [Maximize your Linux operating environment](https://www.redhat.com/rhdc/managed-files/li-maximize-linux-ebook-f31672-202206-en.pdf) - PDF Overview 
