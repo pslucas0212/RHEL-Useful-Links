@@ -46,12 +46,14 @@
 - [Extended Life Cycle Support add-on for Red Hat Enterprise Linux](https://www.redhat.com/en/resources/els-datasheet) - Datasheet
 - [How to access RHEL 6 ELS content in AWS, Google Cloud, Microsoft Azure](https://access.redhat.com/solutions/5609781)
 
-### Cloud
+## Cloud
 - [RHEL gold images in Azure and user experience improvements for Red Hat Cloud Access](https://www.redhat.com/en/blog/rhel-gold-images-azure-and-user-experience-improvements-red-hat-cloud-access)
 - [How to Locate Red Hat Cloud Access Gold Images on AWS EC2](https://access.redhat.com/articles/2962171)
 - [Creating customized RHEL images using the Image Builder service](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/creating_customized_images_by_using_insights_image_builder/index)
 - [Red Hat Enterprise Linux 8 Image Builder: Building custom system images](https://developers.redhat.com/blog/2019/05/08/red-hat-enterprise-linux-8-image-builder-building-custom-system-images)
 - [Entropy in RHEL based cloud instances](https://developers.redhat.com/blog/2017/10/05/entropy-rhel-based-cloud-instances#)
+- [How to provision a Red Hat Enterprise Linux virtual machine for Microsoft Azure](https://access.redhat.com/articles/uploading-rhel-image-to-azure)
+- [Unable to find RHEL PAYG and RHEL Gold Images in Azure China](https://access.redhat.com/solutions/6964732)
 
 ### Certifications - Government, Industry, etc.
 - [Government Standards](https://access.redhat.com/articles/2918071)
