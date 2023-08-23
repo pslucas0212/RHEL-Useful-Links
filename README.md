@@ -221,6 +221,7 @@
 
 ### Security 
 - [How to enable TLS 1.0 and TLS 1.1 protocols in RHEL 8](https://access.redhat.com/solutions/6370021)
+- [Center for Internet Security (CIS) compliance in Red Hat Enterprise Linux using OpenSCAP](https://www.redhat.com/en/blog/center-internet-security-cis-compliance-red-hat-enterprise-linux-using-openscap)
 
 ### Performance Tuning and Benchmarks
 - [Does FS-Cache performance depends on file size ? - RHEL 6/7](https://access.redhat.com/solutions/2175111)
