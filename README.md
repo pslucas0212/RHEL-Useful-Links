@@ -54,6 +54,7 @@
 - [Entropy in RHEL based cloud instances](https://developers.redhat.com/blog/2017/10/05/entropy-rhel-based-cloud-instances#)
 - [How to provision a Red Hat Enterprise Linux virtual machine for Microsoft Azure](https://access.redhat.com/articles/uploading-rhel-image-to-azure)
 - [Unable to find RHEL PAYG and RHEL Gold Images in Azure China](https://access.redhat.com/solutions/6964732)
+- [User Guide: Red Hat Enterprise Linux on AWS](https://www.redhat.com/rhdc/managed-files/li-user-guide-rhel-on-aws-detail-447450-202307-en.pdf) - PDF download
 
 ### Certifications - Government, Industry, etc.
 - [Government Standards](https://access.redhat.com/articles/2918071)
