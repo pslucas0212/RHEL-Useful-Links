@@ -142,6 +142,7 @@
 - [Using RHEL subscriptions (2013 packaging): Scenario 5 - Virtual Datacenter](https://access.redhat.com/articles/480693)
 - [How to use Virtual Datacenter subscriptions in Cloud Platforms ?](https://access.redhat.com/solutions/3492871) FYI... Short answer is that you can't use VDC subs in the cloud as underlying hypervisor is not accessible by virt-who.
 - [With Red Hat Enterprise Linux for Virtual Datacenters, how do I register third party hypervisors and RHEL guests with the Customer Portal or Satellite?](https://access.redhat.com/solutions/1757833)
+- [What is the support status for Red Hat Enterprise Linux on Oracle VM?](https://access.redhat.com/solutions/99193)
 
 ### Red Hat Enterprise Linux Upgrade
 - [How to do an offline upgrade to RHEL 8 with Leapp?](https://access.redhat.com/solutions/5492401)
