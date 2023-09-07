@@ -305,3 +305,10 @@
 - [Microsoft SQL Server Management Studio on Red Hat Enterprise Linux](https://www.youtube.com/watch?v=pknjKM6hJZ8) - Video - February 2022
 - [Automating network and Microsoft SQL Server configuration using RHEL System Roles](https://www.redhat.com/en/blog/automating-network-and-microsoft-sql-server-configuration-using-rhel-system-roles)
 
+
+## Licensing of Red Hat Enterprise Linux Repository and Packaging
+- [Package listing for Red Hat Enterprise Linux 9](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/package_manifest/index)
+- [Package listing for Red Hat Enterprise Linux 8](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/package_manifest/index)
+- [Package listing for Red Hat Enterprise Linux 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/package_manifest/index)
+
+
