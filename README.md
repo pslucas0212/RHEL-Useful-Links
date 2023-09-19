@@ -48,6 +48,7 @@
 
 ## Cloud
 - [How to deploy RHEL in the cloud: Pay as you go vs. bring-your-own-subscription](https://www.redhat.com/en/blog/how-deploy-red-hat-enterprise-linux-cloud)
+- [What is the procedure to enroll for the Red Hat Cloud Access Program (BYOS)?](https://access.redhat.com/articles/5252771#:~:text=Log%20in%20to%20the%20Red,from%20the%20drop%2Ddown%20menu)
 - [RHEL gold images in Azure and user experience improvements for Red Hat Cloud Access](https://www.redhat.com/en/blog/rhel-gold-images-azure-and-user-experience-improvements-red-hat-cloud-access)
 - [How to Locate Red Hat Cloud Access Gold Images on AWS EC2](https://access.redhat.com/articles/2962171)
 - [Creating customized RHEL images using the Image Builder service](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/creating_customized_images_by_using_insights_image_builder/index)
