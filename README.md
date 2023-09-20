@@ -211,6 +211,10 @@
 - [Introduction to Application Streams in Red Hat Enterprise Linux](https://www.redhat.com/en/blog/introduction-appstreams-and-modules-red-hat-enterprise-linux)
 - [Red Hat Enterprise Linux 8 Application Streams Life Cycle](https://access.redhat.com/support/policy/updates/rhel8-app-streams-life-cycle)
 
+### Containers
+- [Red Hat Enterprise Linux Container Compatibility Matrix](https://access.redhat.com/support/policy/rhel-container-compatibility)
+- [Red Hat Container Support Policy](https://access.redhat.com/articles/2726611)
+
 ### Clustering with RHEL
 - [How to build an active-active-active cluster with RHEL 8 and Percona MySQL](https://www.redhat.com/sysadmin/active-active-active-clusters)
 
@@ -255,6 +259,7 @@
 - RHEL 8 [Appendix G. Troubleshooting](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/performing_a_standard_rhel_installation/troubleshooting-after-installation_installing-rhel)
 - RHEL 7 [Appendix A. Troubleshooting](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/appe-troubleshooting)
 
+## Ansible
 ### Using Roles for Automated Configuration
 - [Automating firewall configuration with RHEL System Roles](https://www.redhat.com/en/blog/automating-firewall-configuration-rhel-system-roles)
 - [Red Hat Enterprise Linux System Roles series](https://www.redhat.com/en/blog/red-hat-enterprise-linux-system-roles) - Series of articles on using RHEL System Roles
