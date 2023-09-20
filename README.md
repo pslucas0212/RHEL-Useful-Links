@@ -71,9 +71,11 @@
 ### Red Hat Enterpise Linux 9.2 and 8.8
 - [Red Hat Delivers Latest Releases of Red Hat Enterprise Linux](https://www.redhat.com/en/about/press-releases/red-hat-delivers-latest-releases-red-hat-enterprise-linux)  
 - [Speed innovation with new features in Red Hat Enterprise Linux 9.2 and 8.8](https://www.redhat.com/en/blog/speed-innovation-new-features-red-hat-enterprise-linux-92-and-88)
+- [What's New in Red Hat Enterprise Linux 9.2](https://www.youtube.com/watch?v=HiiTO_eR0CQ)
 
 ### Red Hat Enterprise Linux 9.1
 - [Red Hat Enterprise Linux 9.1 is now available](https://www.redhat.com/en/blog/rhel-91-now-available)
+- [What’s New in RHEL 9.1 | Red Hat Enterprise Linux Presents 49](https://www.youtube.com/watch?v=Jb_rV8GIBRk)
 
 ### Red Hat Enterprise Linux 9
 - [Hot Off the Presses: Red Hat Enterprise Linux 9](https://www.redhat.com/en/blog/hot-presses-red-hat-enterprise-linux-9)
