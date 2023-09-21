@@ -280,11 +280,6 @@
 - [Updates to using Ansible in RHEL 8.6 and 9.0](https://www.redhat.com/en/blog/updates-using-ansible-rhel-86-and-90)
 - [Red Hat Enterprise Linux (RHEL) System Roles](https://access.redhat.com/articles/3050101) - See **Note 1 and Note 2** in this document describes support and scope of use cases that Red Hat provides with Ansible Engine/Ansible Core installed on RHEL.
 
-### Red Hat Enterprise Linux for SAP
-- [Overview of the Red Hat Enterprise Linux for SAP Solutions subscription](https://access.redhat.com/solutions/3082481)
-- [Overview of the Red Hat Enterprise Linux for SAP Solutions subscription](https://access.redhat.com/solutions/3082481) - January 2023
-- [Overview of the Red Hat Enterprise Linux for SAP Applications subscription](https://access.redhat.com/solutions/34169) - February 2023
-- [Red Hat Enterprise Linux System Roles for SAP](https://access.redhat.com/articles/4488731)
 
 ### Red Hat Software Collections
 - [PHP support in Red Hat Enterprise Linux](https://access.redhat.com/solutions/409673)
