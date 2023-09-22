@@ -193,6 +193,7 @@
 - [How to install German language and use langpacks in RHEL 8 ?](https://access.redhat.com/solutions/6178821) - Example on how to install a language pack on RHEL 8.
 
 ### Converting CentOS or OEL To RHEL
+- [Convert2RHEL FAQ](https://access.redhat.com/articles/5941531)
 - [Convert2RHEL Support Policy](https://access.redhat.com/support/policy/convert2rhel-support)
 - [Bulk Convert2RHEL with Red Hat Satellite 6.10](https://www.redhat.com/en/blog/bulk-convert2rhel-red-hat-satellite-610)
 - [How to perform an unsupported conversion from a RHEL-derived Linux distribution to RHEL](https://access.redhat.com/articles/2360841) - Updated January 2023
