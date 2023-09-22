@@ -194,6 +194,7 @@
 
 ### Converting CentOS or OEL To RHEL
 - [Convert2RHEL Support Policy](https://access.redhat.com/support/policy/convert2rhel-support)
+- [Bulk Convert2RHEL with Red Hat Satellite 6.10](https://www.redhat.com/en/blog/bulk-convert2rhel-red-hat-satellite-610)
 - [How to perform an unsupported conversion from a RHEL-derived Linux distribution to RHEL](https://access.redhat.com/articles/2360841) - Updated January 2023
 - [Using convert2rhel with Red Hat Satellite: walking through a migration](https://www.redhat.com/en/blog/using-convert2rhel-red-hat-satellite-walking-through-migration)
 - [An Introduction to Convert2RHEL: Now officially supported to convert RHEL-like systems to RHEL](https://www.redhat.com/en/blog/introduction-convert2rhel-now-officially-supported-convert-rhel-systems-rhel) - April 2021 article
