@@ -288,6 +288,7 @@
 - [PHP support in Red Hat Enterprise Linux](https://access.redhat.com/solutions/409673)
 ### VMWare
 #### From Redhat:
+- [What’s new in vSphere on RHEL image builder](https://developers.redhat.com/articles/2023/09/26/whats-new-vsphere-rhel-image-builder)
 - [Support Policies for RHEL High Availability Clusters - General Conditions with Virtualized Cluster Members](https://access.redhat.com/articles/3131111)
 - [Design Guidance for RHEL High Availability Clusters - VMware Virtual Machines as Cluster Members](https://access.redhat.com/articles/3349791)
 - [Are VMware VMDK disk images a supported shared storage method in Red Hat Enterprise Linux High Availability Cluster?](https://access.redhat.com/solutions/158873)
