@@ -150,6 +150,7 @@
 - [What is the support status for Red Hat Enterprise Linux on Oracle VM?](https://access.redhat.com/solutions/99193)
 
 ### Red Hat Enterprise Linux Upgrade
+- [Supported in-place upgrade paths for Red Hat Enterprise Linux](https://access.redhat.com/articles/4263361)
 - [How to do an offline upgrade to RHEL 8 with Leapp?](https://access.redhat.com/solutions/5492401)
 - [Upgrading from RHEL 7 to RHEL 8 with Leapp and BOOM](https://www.redhat.com/en/blog/upgrading-rhel-7-rhel-8-leapp-and-boom)
 - [Upgrade from Red Hat Enterprise Linux 7 to 8 with Leapp](https://www.redhat.com/en/about/videos/upgrade-from-red-hat-enterprise-7-with-Leapp)  - Video - Approximately 4 minutes
