@@ -20,6 +20,7 @@
 
 ### Sysadmin
 - [Enable Sysadmin](https://www.redhat.com/sysadmin/) - Linux system administration articles
+- [How to set an environment variable in Red Hat Enterprise Linux?](https://access.redhat.com/solutions/157293)
 
 ### Registration and Subscription
 - [How to register and subscribe a system to the Red Hat Customer Portal using Red Hat Subscription-Manager](https://access.redhat.com/solutions/253273)
