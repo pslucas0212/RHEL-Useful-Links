@@ -141,26 +141,6 @@
 ### Internationalization
 - [How to install German language and use langpacks in RHEL 8 ?](https://access.redhat.com/solutions/6178821) - Example on how to install a language pack on RHEL 8.
 
-### Converting CentOS or OEL To RHEL
-- [Convert2RHEL FAQ](https://access.redhat.com/articles/5941531)
-- [Convert2RHEL Support Policy](https://access.redhat.com/support/policy/convert2rhel-support)
-- [Bulk Convert2RHEL with Red Hat Satellite 6.10](https://www.redhat.com/en/blog/bulk-convert2rhel-red-hat-satellite-610)
-- [How to perform an unsupported conversion from a RHEL-derived Linux distribution to RHEL](https://access.redhat.com/articles/2360841) - Updated January 2023
-- [Using convert2rhel with Red Hat Satellite: walking through a migration](https://www.redhat.com/en/blog/using-convert2rhel-red-hat-satellite-walking-through-migration)
-- [An Introduction to Convert2RHEL: Now officially supported to convert RHEL-like systems to RHEL](https://www.redhat.com/en/blog/introduction-convert2rhel-now-officially-supported-convert-rhel-systems-rhel) - April 2021 article
-- [Convert2RHEL: How to convert from CentOS Linux and Oracle Linux to Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/migration-process/convert2rhel-how-to-convert-from-centos-linux-to-red-hat-enterprise-linux)
-- [Converting to Red Hat Enterprise Linux 7 on AWS](https://www.youtube.com/watch?v=SHm93c2Y1H4)
-- [Converting from CentOS to RHEL with Convert2RHEL and Satellite ](https://www.redhat.com/en/blog/converting-centos-rhel-convert2rhel-and-satellite) - March 2020 Overview
-- [Introduction Convert to RHEL: Convert2RHEL](https://www.youtube.com/watch?v=Git-6uAz1t4) - YouTube - September 2021
-- [Convert from CentOS Linux with Convert2RHEL](https://www.youtube.com/watch?v=xX7P4BzOcNg) - YouTube - October 2021
-
-#### OEL References for when you are considering converting OEL to RHEL
-- [Release Notes for Oracle Linux 9 - About Oracle Linux 9](https://docs.oracle.com/en/operating-systems/oracle-linux/9/relnotes9.0/ol9-AboutOracleLinux9.html#ol9-whatsnew)
-- [Release Notes for Oracle Linux 8 - Shipped Kernel](https://docs.oracle.com/en/operating-systems/oracle-linux/8/relnotes8.0/ol8-AboutOracleLinux8.html#ol8-kernels)
-- [Oracle Linux and Unbreakable Enterprise Kernel (UEK) Releases](https://blogs.oracle.com/scoter/post/oracle-linux-and-unbreakable-enterprise-kernel-uek-releases) - Updated on 22 November 2022
-- [Unbreakable Enterprise Kernel](https://docs.oracle.com/en/operating-systems/uek/)
-- [Active Kernel Releases](https://www.kernel.org/releases.html) from the Linux Kernel Archives
-
 ### Application Streams in RHEL 8
 - [Introduction to Application Streams in Red Hat Enterprise Linux](https://www.redhat.com/en/blog/introduction-appstreams-and-modules-red-hat-enterprise-linux)
 - [Red Hat Enterprise Linux 8 Application Streams Life Cycle](https://access.redhat.com/support/policy/updates/rhel8-app-streams-life-cycle)
