@@ -38,6 +38,9 @@
 - [Red Hat Enterprise Linux 8 Extended Update Support (EUS) FAQ](https://access.redhat.com/articles/4520991)
 
 ## Extended Support Life Cycle
+
+[Red Hat Enterprise Linux Extended Life Cycle Support (ELS) Add-on](https://www.redhat.com/en/resources/els-datasheet)  
+
 ### Red Hat Enterprise Extended Support Life Cycle - RHEL 7
 - [FAQ: Red Hat Enterprise Linux 7 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/articles/7005471)
 - [Announcing up to 4 years of Extended Life Cycle Support (ELS) for Red Hat Enterprise Linux 7](https://www.redhat.com/en/blog/announcing-4-years-extended-life-cycle-support-els-red-hat-enterprise-linux-7)
