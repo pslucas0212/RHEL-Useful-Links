@@ -74,6 +74,8 @@
 
 ## Red Hat Enterprise Linux New Release Information
 
+### Red Hat Enterprise Linux 9.3
+
 ### Red Hat Enterpise Linux 9.2 and 8.8
 - [Red Hat Delivers Latest Releases of Red Hat Enterprise Linux](https://www.redhat.com/en/about/press-releases/red-hat-delivers-latest-releases-red-hat-enterprise-linux)  
 - [Speed innovation with new features in Red Hat Enterprise Linux 9.2 and 8.8](https://www.redhat.com/en/blog/speed-innovation-new-features-red-hat-enterprise-linux-92-and-88)
@@ -93,7 +95,10 @@
 - [Security features in Red Hat Enterprise Linux 9](https://www.redhat.com/en/blog/security-features-red-hat-enterprise-linux-9)
 - [RHEL 9 networking: Say goodbye to ifcfg-files, and hello to keyfiles](https://www.redhat.com/en/blog/rhel-9-networking-say-goodbye-ifcfg-files-and-hello-keyfiles)
 
-
+### Red Hat Enterprise Linux 8.9
+- [Standardize while delivering flexibility with Red Hat Enterprise Linux 8.9](https://www.redhat.com/en/blog/standardize-while-delivering-flexibility-red-hat-enterprise-linux-89)
+- [Release Notes for Red Hat Enterprise Linux 8.9](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/8.9_release_notes/index?extIdCarryOver=true&sc_cid=7013a000003SwyjAAC)
+  
 ### Red Hat Enterprise Linux 8.7
 - [Red Hat Enterprise Linux 8.7 is now available](https://www.redhat.com/en/blog/rhel-87-now-available)
 - [8.7 Release Notes](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/8.7_release_notes/index)
