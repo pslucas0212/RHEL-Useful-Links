@@ -10,6 +10,7 @@
 
 
 ### Standard Operating Environment
+- [Applying a Standard Operating Environment with Red Hat Enterprise Linux System Roles and Satellite](https://www.redhat.com/en/blog/soe-with-rhel-and-satellite)
 - [Maximize your Linux operating environment](https://www.redhat.com/rhdc/managed-files/li-maximize-linux-ebook-f31672-202206-en.pdf) - PDF Overview 
 - [4 benefits of a Standard Operating Environment (SOE)](https://enterprisersproject.com/article/2020/11/4-benefits-standard-operating-environment-soe) 
 - [Standard Operating Environment – Part I: Concepts and Structures](https://www.redhat.com/en/blog/standard-operating-environment-%E2%80%93-part-i-concepts-and-structures)
