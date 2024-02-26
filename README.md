@@ -172,6 +172,10 @@
 ### Network File System
 - [How to configure Network File System on Linux](https://www.redhat.com/sysadmin/configure-nfs-linux)
 
+### Kernel Live Patching
+- [What is Linux kernel live patching?](https://www.redhat.com/en/topics/linux/what-is-linux-kernel-live-patching)
+- [How to enable live kernel patching on Linux](https://www.redhat.com/sysadmin/kernel-live-patching-linux)
+- [Is live kernel patch (kpatch) supported in Red Hat Enterprise Linux ?](https://access.redhat.com/solutions/2206511)
 
 ### Integration with Active Directory
 - [Integrating RHEL systems directly with Windows Active Directory](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/pdf/integrating_rhel_systems_directly_with_windows_active_directory/red_hat_enterprise_linux-8-integrating_rhel_systems_directly_with_windows_active_directory-en-us.pdf) - Using RHEL 8
