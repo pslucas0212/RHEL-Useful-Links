@@ -1,4 +1,4 @@
-# Red Hat Enterprise Linux
+# Red Hat Enterprise Linux - Misc
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)  
 [Table of Contents - Red Hat Enterprise Linux](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Table-of-Contents)
@@ -24,17 +24,7 @@
 - [Enable Sysadmin](https://www.redhat.com/sysadmin/) - Linux system administration articles
 - [How to set an environment variable in Red Hat Enterprise Linux?](https://access.redhat.com/solutions/157293)
 
-## Cloud
-- [How to deploy RHEL in the cloud: Pay as you go vs. bring-your-own-subscription](https://www.redhat.com/en/blog/how-deploy-red-hat-enterprise-linux-cloud)
-- [What is the procedure to enroll for the Red Hat Cloud Access Program (BYOS)?](https://access.redhat.com/articles/5252771#:~:text=Log%20in%20to%20the%20Red,from%20the%20drop%2Ddown%20menu)
-- [RHEL gold images in Azure and user experience improvements for Red Hat Cloud Access](https://www.redhat.com/en/blog/rhel-gold-images-azure-and-user-experience-improvements-red-hat-cloud-access)
-- [How to Locate Red Hat Cloud Access Gold Images on AWS EC2](https://access.redhat.com/articles/2962171)
-- [Creating customized RHEL images using the Image Builder service](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/creating_customized_images_by_using_insights_image_builder/index)
-- [Red Hat Enterprise Linux 8 Image Builder: Building custom system images](https://developers.redhat.com/blog/2019/05/08/red-hat-enterprise-linux-8-image-builder-building-custom-system-images)
-- [Entropy in RHEL based cloud instances](https://developers.redhat.com/blog/2017/10/05/entropy-rhel-based-cloud-instances#)
-- [How to provision a Red Hat Enterprise Linux virtual machine for Microsoft Azure](https://access.redhat.com/articles/uploading-rhel-image-to-azure)
-- [Unable to find RHEL PAYG and RHEL Gold Images in Azure China](https://access.redhat.com/solutions/6964732)
-- [User Guide: Red Hat Enterprise Linux on AWS](https://www.redhat.com/rhdc/managed-files/li-user-guide-rhel-on-aws-detail-447450-202307-en.pdf) - PDF download
+
 
 ### Certifications - Government, Industry, etc.
 - [Government Standards](https://access.redhat.com/articles/2918071)
@@ -55,15 +45,6 @@
 ### Monitoring
 - [Automate performance metrics collection and visualization with RHEL System Roles](https://www.redhat.com/en/blog/automate-performance-metrics-collection-and-visualization-rhel-system-roles)
 - 
-### Red Hat Enterprise Linux Updates
-- [How to update Red Hat Enterprise Linux via minor releases and Extended Update Support](https://www.redhat.com/en/blog/how-update-red-hat-enterprise-linux-tvia-minor-releases-and-extended-update-support)
-- [How can we regularly update a disconnected system (A system without internet connection)?](https://access.redhat.com/solutions/29269)
-- [How to create a local mirror of the latest update for Red Hat Enterprise Linux 5, 6, 7, 8 without using Satellite server](https://access.redhat.com/solutions/23016)
-- [Is it possible to manage a PAYG On-Demand image with Satellite Server?](https://access.redhat.com/solutions/5962181)
-- [Is the createrepo command available in RHEL 8/9?](https://access.redhat.com/solutions/3755901)
-- [Create an Apache-based YUM/DNF repository on Red Hat Enterprise Linux 8]()
-- [Red Hat Update Infrastructure](https://access.redhat.com/products/red-hat-update-infrastructure)
-- [Best practices for patch management](https://www.redhat.com/en/blog/best-practices-patch-management)
 
 
 ### RHEL and Tomcat
@@ -88,14 +69,6 @@
 ### Network File System
 - [How to configure Network File System on Linux](https://www.redhat.com/sysadmin/configure-nfs-linux)
 
-### Kernel Live Patching
-- [What is Linux kernel live patching?](https://www.redhat.com/en/topics/linux/what-is-linux-kernel-live-patching)
-- [How to enable live kernel patching on Linux](https://www.redhat.com/sysadmin/kernel-live-patching-linux)
-- [Is live kernel patch (kpatch) supported in Red Hat Enterprise Linux ?](https://access.redhat.com/solutions/2206511)
-- [https://www.redhat.com/en/interactive-labs/reduce-unplanned-maintenance-kernel-live-patching](https://www.redhat.com/en/interactive-labs/reduce-unplanned-maintenance-kernel-live-patching) - Red Hat instruqt hands-on lab
-- [RHEL package updates and live kernel patching with Red Hat Satellite](https://www.redhat.com/en/blog/rhel-package-updates-and-live-kernel-patching-red-hat-satellite)
-- [RHEL 8.1 - Live Kernel Patching](https://www.youtube.com/watch?v=RHKESTHFm0o) - YouTube video
-- [Using Satellite for Red Hat Enterprise Linux Live Kernel Patching](https://www.youtube.com/watch?v=lUofdsUXcZ8) - YouTube Video
 
 ### Integration with Active Directory
 - [Integrating RHEL systems directly with Windows Active Directory](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/pdf/integrating_rhel_systems_directly_with_windows_active_directory/red_hat_enterprise_linux-8-integrating_rhel_systems_directly_with_windows_active_directory-en-us.pdf) - Using RHEL 8
@@ -134,24 +107,6 @@
 - RHEL 8 [Appendix G. Troubleshooting](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/performing_a_standard_rhel_installation/troubleshooting-after-installation_installing-rhel)
 - RHEL 7 [Appendix A. Troubleshooting](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/appe-troubleshooting)
 
-## Ansible
-### Using Roles for Automated Configuration
-- [Automating firewall configuration with RHEL System Roles](https://www.redhat.com/en/blog/automating-firewall-configuration-rhel-system-roles)
-- [Red Hat Enterprise Linux System Roles series](https://www.redhat.com/en/blog/red-hat-enterprise-linux-system-roles) - Series of articles on using RHEL System Roles
-- [Red Hat Enterprise Linux (RHEL) System Roles](https://access.redhat.com/articles/3050101)
-- [Introduction to RHEL System Roles](https://www.redhat.com/en/blog/introduction-rhel-system-roles)
-
-### Ansible and Linux
-- [Demystifying Ansible for Linux sysadmins](https://www.redhat.com/sysadmin/demystifying-ansible-sysadmins)
-- [Quick start guide to Ansible for Linux sysadmins](https://www.redhat.com/sysadmin/ansible-quick-start)
-- [How to install Red Hat Ansible Automation Platform on RHEL 9](https://developers.redhat.com/articles/2023/01/01/how-install-red-hat-ansible-automation-platform-rhel-9?sc_cid=7013a0000034iB6AAI#)
-
-### Ansible Support in RHEL
-- [Using Ansible in RHEL 9](https://access.redhat.com/articles/6393321)
-- [Scope of support for the Ansible Core package included in the RHEL 9 and RHEL 8.6 and later AppStream repositories](https://access.redhat.com/articles/6325611)
-- [Using Ansible in RHEL 8.6 and later](https://access.redhat.com/articles/6393361)
-- [Updates to using Ansible in RHEL 8.6 and 9.0](https://www.redhat.com/en/blog/updates-using-ansible-rhel-86-and-90)
-- [Red Hat Enterprise Linux (RHEL) System Roles](https://access.redhat.com/articles/3050101) - See **Note 1 and Note 2** in this document describes support and scope of use cases that Red Hat provides with Ansible Engine/Ansible Core installed on RHEL.
 
 
 ### Red Hat Software Collections
