@@ -45,17 +45,6 @@
 - [Red Hat Enterprise Linux Technical Overview](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview?utm_medium=Email&utm_campaign=weekly&sc_cid=7013a0000038466AAA) - No charge introduction
 
 
-### Virtual Data Center Subscription
-- [Why and when do I need Virt-Who?](https://access.redhat.com/articles/1300283)
-- [Red Hat Virtualization Agent (virt-who) Configuration Helper](https://access.redhat.com/labsinfo/virtwhoconfig)
-- [Using RHEL Virtual Data Center Subscription [Master Article]](https://access.redhat.com/solutions/3243071)
-- [Configuring virt-who with Red Hat Subscription Management](https://www.youtube.com/watch?v=0KptauyDAxE)
-- [Using RHEL subscriptions (2013 packaging): Scenario 5 - Virtual Datacenter](https://access.redhat.com/articles/480693)
-- [How to use Virtual Datacenter subscriptions in Cloud Platforms ?](https://access.redhat.com/solutions/3492871) FYI... Short answer is that you can't use VDC subs in the cloud as underlying hypervisor is not accessible by virt-who.
-- [With Red Hat Enterprise Linux for Virtual Datacenters, how do I register third party hypervisors and RHEL guests with the Customer Portal or Satellite?](https://access.redhat.com/solutions/1757833)
-- [What is the support status for Red Hat Enterprise Linux on Oracle VM?](https://access.redhat.com/solutions/99193)
-
-
 ### RHEL GUI/Web Server Administration
 - [An introduction to Cockpit, a browser-based administration tool for Linux](https://www.redhat.com/sysadmin/intro-cockpit#:~:text=Cockpit%20is%20a%20server%20administration,continued%20to%20grow%20and%20mature.)
 - [RHEL 7 Documentation - GETTING STARTED WITH COCKPIT](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/getting_started_with_cockpit/index)
