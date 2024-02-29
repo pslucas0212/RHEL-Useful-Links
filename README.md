@@ -123,6 +123,7 @@
 
 ### Clustering with RHEL
 - [How to build an active-active-active cluster with RHEL 8 and Percona MySQL](https://www.redhat.com/sysadmin/active-active-active-clusters)
+- [Support Policies for RHEL High Availability Clusters - VMware Virtual Machines as Cluster Members](https://access.redhat.com/articles/3131271)
 
 ### Network File System
 - [How to configure Network File System on Linux](https://www.redhat.com/sysadmin/configure-nfs-linux)
