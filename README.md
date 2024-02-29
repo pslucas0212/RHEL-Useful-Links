@@ -177,6 +177,7 @@
 - [How to enable live kernel patching on Linux](https://www.redhat.com/sysadmin/kernel-live-patching-linux)
 - [Is live kernel patch (kpatch) supported in Red Hat Enterprise Linux ?](https://access.redhat.com/solutions/2206511)
 - [https://www.redhat.com/en/interactive-labs/reduce-unplanned-maintenance-kernel-live-patching](https://www.redhat.com/en/interactive-labs/reduce-unplanned-maintenance-kernel-live-patching) - Red Hat instruqt hands-on lab
+- [RHEL package updates and live kernel patching with Red Hat Satellite](https://www.redhat.com/en/blog/rhel-package-updates-and-live-kernel-patching-red-hat-satellite)
 
 ### Integration with Active Directory
 - [Integrating RHEL systems directly with Windows Active Directory](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/pdf/integrating_rhel_systems_directly_with_windows_active_directory/red_hat_enterprise_linux-8-integrating_rhel_systems_directly_with_windows_active_directory-en-us.pdf) - Using RHEL 8
