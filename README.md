@@ -77,6 +77,7 @@
 
 ### Red Hat Enterprise Linux 9.3 and 8.9
 - [Unite flexibility and manageability with Red Hat Enterprise Linux 9.3 and 8.9](https://www.redhat.com/en/blog/rhel-93-and-89)
+- [What's New in RHEL 9.3 and 8.9](https://www.youtube.com/watch?v=hcxIfHG0xb4) - YouTube
 
 
 ### Red Hat Enterpise Linux 9.2 and 8.8
