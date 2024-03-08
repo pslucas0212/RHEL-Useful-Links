@@ -65,6 +65,8 @@
 ### Clustering with RHEL
 - [How to build an active-active-active cluster with RHEL 8 and Percona MySQL](https://www.redhat.com/sysadmin/active-active-active-clusters)
 - [Support Policies for RHEL High Availability Clusters - VMware Virtual Machines as Cluster Members](https://access.redhat.com/articles/3131271)
+- [Support Policies for RHEL High Availability Clusters - fence_scsi and fence_mpath](https://access.redhat.com/articles/3078811)
+- [fence_scsi on VMware vCenter / ESXi fails when a cluster node is shutdown from the host in RHEL 5 or 6 or 7](https://access.redhat.com/solutions/457703)
 
 ### Network File System
 - [How to configure Network File System on Linux](https://www.redhat.com/sysadmin/configure-nfs-linux)
