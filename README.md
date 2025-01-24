@@ -25,6 +25,7 @@
 - [How to set an environment variable in Red Hat Enterprise Linux?](https://access.redhat.com/solutions/157293)
 - [20 essential Linux commands for every user](https://www.redhat.com/en/blog/20-essential-linux-commands-every-user)
 - [Find files and directories on Linux with the find command](https://opensource.com/article/21/9/linux-find-command)
+- [An introduction to using tcpdump at the Linux command line](https://www.redhat.com/en/blog/introduction-using-tcpdump-linux-command-line)
 
 
 
